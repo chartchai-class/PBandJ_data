@@ -222,5 +222,27 @@
         { "sport_title": "Athletics (Women's 10,000m)", "medal_type": "SILVER" }
       ]
     }
+  ],
+  "sportLists": [
+    { "sport_title": "Athletics (Women's 400m)", "winner": "Bahamas" },
+    { "sport_title": "Athletics (Men's 400m)", "winner": "Bahamas" },
+    {
+      "sport_title": "Athletics (Women's Heptathlon)",
+      "winner": "Belgium"
+    },
+    { "sport_title": "Hockey (Men)", "winner": "Belgium" },
+    {
+      "sport_title": "Artistic Gymnastics (Women's Uneven Bars)",
+      "winner": "Belgium"
+    },
+    {
+      "sport_title": "Cycling Road (Women's Road Race)",
+      "winner": "Austria"
+    },
+    {
+      "sport_title": "Canoe Sprint (Men's Kayak Double 1000m)",
+      "winner": "Australia"
+    },
+    { "sport_title": "Trampoline Gymnastics (Men)", "winner": "Belarus" }
   ]
 }
