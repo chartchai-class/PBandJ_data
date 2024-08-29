@@ -224,25 +224,33 @@
     }
   ],
   "sportLists": [
-    { "sport_title": "Athletics (Women's 400m)", "winner": "Bahamas" },
-    { "sport_title": "Athletics (Men's 400m)", "winner": "Bahamas" },
+    { "sport_title": "Athletics (Women's 400m)", "gold": "Bahamas", "silver": "Thailand?", "bronze": "United States"},
+    { "sport_title": "Athletics (Men's 400m)", "gold": "Bahamas", "silver": "Japan", "bronze": "North Korea"},
     {
       "sport_title": "Athletics (Women's Heptathlon)",
-      "winner": "Belgium"
+      "gold": "Belgium",
+      "silver": "Paris",
+      "bronze": "Russia"
     },
-    { "sport_title": "Hockey (Men)", "winner": "Belgium" },
+    { "sport_title": "Hockey (Men)", "gold": "Belgium" },
     {
       "sport_title": "Artistic Gymnastics (Women's Uneven Bars)",
-      "winner": "Belgium"
+      "gold": "Belgium",
+      "silver": "Norway",
+      "bronze": "China"
     },
     {
       "sport_title": "Cycling Road (Women's Road Race)",
-      "winner": "Austria"
+      "gold": "Austria",
+      "silver": "Philippines",
+      "bronze":"United States"
     },
     {
       "sport_title": "Canoe Sprint (Men's Kayak Double 1000m)",
-      "winner": "Australia"
+      "gold": "Australia",
+      "silver": "-",
+      "bronze":"-"
     },
-    { "sport_title": "Trampoline Gymnastics (Men)", "winner": "Belarus" }
+    { "sport_title": "Trampoline Gymnastics (Men)", "gold": "Belarus", "silver": "North Korea", "bronze": "North Korea...again" }
   ]
 }
